@@ -1,0 +1,25 @@
+{
+  "name": "react-native-sync-storage",
+  "version": "1.0.0",
+  "description": "Sync storage for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n7olkachev/react-native-sync-storage.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "sync",
+    "storage"
+  ],
+  "author": "Nick Tolkachev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n7olkachev/react-native-sync-storage/issues"
+  },
+  "homepage": "https://github.com/n7olkachev/react-native-sync-storage#readme"
+}
