@@ -14,4 +14,4 @@ storage.get('property')
 storage.set('property', 2333)
 storage.remove('property')
 ```
-Note that `set` and `remove` methods return promise which
+Note that `set` and `remove` methods return promise which is resolved on syncing with `AsyncStorage`.
